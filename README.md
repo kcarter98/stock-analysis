@@ -18,11 +18,11 @@ After refactoring the code, it was clear after it was ran how advantageous it wa
 
 ##### 2017 Refactored Code Results
 
-![Image2](/resources/VBA_Challenge_2017.png)
+![Image2](/resources/VBA_Challenge_2017.PNG)
 
 ##### 2018 Refactored Code Results
 
-![Image3](/resources/VBA_Challenge_2018.png)
+![Image3](/resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 
