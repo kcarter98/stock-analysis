@@ -12,7 +12,7 @@ After refactoring the code, it was clear after it was ran how advantageous it wa
 
 ##### Original Code Results
 
-![Image1](/resources/VBA_Original_Runtime.png)
+![Image1](/resources/VBA_Original_Runtime.PNG)
 
 ### 2017 vs 2018
 
