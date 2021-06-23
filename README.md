@@ -12,7 +12,7 @@ After refactoring the code, it was clear after it was ran how advantageous it wa
 
 ##### Original Code Results
 
-![Image1](/resources/VBA_Original_Runtime.png)
+![Image1](/resources/VBA_Original_Runtime.PNG)
 
 ### 2017 vs 2018
 
@@ -20,11 +20,11 @@ There was a slight increase in the performance for 2017 when compared against th
 
 ##### 2017 Refactored Code Results
 
-![Image2](/resources/VBA_Challenge_2017.png)
+![Image2](/resources/VBA_Challenge_2017.PNG)
 
 ##### 2018 Refactored Code Results
 
-![Image3](/resources/VBA_Challenge_2018.png)
+![Image3](/resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 
