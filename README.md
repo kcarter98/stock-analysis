@@ -37,3 +37,4 @@ Some disadvantages to refactoring code is that it is cost and time consuming. If
 - *How do these pros and cons apply to refactoring the original VBA script?*
 
 The refactoring of the VBA script unquestionably improved the performance of the code. Admittedly, the refactored script didn't even have the formatting functionality with it like the refactored did, and it wasn't even close. It did take me a few more hours to perform the refactor, but it was worth saving me those 30 seconds of runtime each time I run my operation!
+
